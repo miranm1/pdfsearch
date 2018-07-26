@@ -1,0 +1,10 @@
+U:\pdfsearch\pdfsearch\pdfsearch\bin\Debug\pdfsearch.exe.config
+U:\pdfsearch\pdfsearch\pdfsearch\bin\Debug\pdfsearch.exe
+U:\pdfsearch\pdfsearch\pdfsearch\bin\Debug\pdfsearch.pdb
+U:\pdfsearch\pdfsearch\pdfsearch\obj\Debug\pdfsearch.csprojAssemblyReference.cache
+U:\pdfsearch\pdfsearch\pdfsearch\obj\Debug\pdfsearch.csproj.CoreCompileInputs.cache
+U:\pdfsearch\pdfsearch\pdfsearch\obj\Debug\pdfsearch.exe
+U:\pdfsearch\pdfsearch\pdfsearch\obj\Debug\pdfsearch.pdb
+U:\pdfsearch\pdfsearch\pdfsearch\bin\Debug\itextsharp.dll
+U:\pdfsearch\pdfsearch\pdfsearch\bin\Debug\itextsharp.xml
+U:\pdfsearch\pdfsearch\pdfsearch\obj\Debug\pdfsearch.csproj.CopyComplete
